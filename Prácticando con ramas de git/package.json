@@ -1,0 +1,17 @@
+{
+  "name": "practicando-con-ramas-de-git",
+  "version": "1.0.0",
+  "description": "una pagina de prueba",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "idk",
+    "html",
+    "git",
+    "npm"
+  ],
+  "author": "Diego Montesino",
+  "license": "ISC"
+}
